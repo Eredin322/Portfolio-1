@@ -58,6 +58,7 @@
   flex-direction: row;
 }
 .menu_item {
+  color: white;
   height: 37px;
   padding: 7px 15px 14px 15px;
   display: flex;
